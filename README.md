@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xxxhiroki
 - 👀 I’m interested in dance, yoga, music...
 - 🌱 I’m currently learning web frontend and AI.
-- 📫 soulsmugglerstudio@gmail.com
+- 📫 info.hirokitakamura@gmail.com
 
 <!---
 xxxhiroki/xxxhiroki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
