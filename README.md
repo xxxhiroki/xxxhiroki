@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xxxhiroki
 - 👀 I’m interested in dance, yoga, music...
-- 🌱 I’m currently learning web frontend and AI.
+- 🌱 I’m currently learning notion, web frontend and AI.
 - 📫 info.hirokitakamura@gmail.com
 
 <!---
